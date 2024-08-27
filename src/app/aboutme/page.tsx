@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import styles from "./AboutMe.module.css"; 
+import styles from "./aboutme.module.css"; 
 
 
 const AboutMe = () => {
