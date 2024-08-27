@@ -1,0 +1,37 @@
+.container {
+    background-color: #f0f0f0; /* สีพื้นหลัง */
+    color: #333; /* สีข้อความ */
+    min-height: 100vh;
+    padding: 20px;
+    font-family: 'Arial', sans-serif; /* ฟอนต์ที่ใช้ */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .title {
+    color: #4b0082; /* สีม่วง */
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .info {
+    background-color: #ffd700; /* สีทอง */
+    color: #4b0082; /* สีม่วง */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 80%;
+    max-width: 600px;
+  }
+  
+  .info p {
+    font-size: 1.2rem;
+    margin: 10px 0;
+  }
+  
+  .info strong {
+    font-weight: bold;
+  }
+  
